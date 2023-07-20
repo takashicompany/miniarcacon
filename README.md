@@ -70,12 +70,34 @@ RP2040-Zeroのハンダ付け部分を全て基板にハンダ付けしたら完
 
 ### 3. ファームウェアの書き込み
 
-RP2040-ZeroとPC/ゲーム機をUSBで接続します。  
+ファームウェアは[GP2040-CE](https://gp2040-ce.info/#/)を使用します。
+
+[公式のインストール方法](https://gp2040-ce.info/#/installation)
+
+[こちら](https://gp2040-ce.info/#/download)からRP2040-Zero用のファームウェアをダウンロードしてください。
+
+RP2040-Zeroに備え付けられたBootボタンを確認してください。
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5146.jpg?raw=true" width = "600px" />
+
+**Bootボタンを長押ししたまま**RP2040-ZeroとPC/ゲーム機をUSBで接続します。  
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5148.jpg?raw=true" width = "600px" />
+
+外部ドライブとして「RPI-RP2」が表示されていることを確認します。  
+<img src = "https://github.com/takashicompany/miniarcacon/assets/4215759/82e003e2-39a8-4dd5-a1a8-4bf3ccc9573b" width = "600px" />
+
+このRPI-RP2に先程ダウンロードしたファームウェア(.uf2)をドラッグアンドドロップをします。  
+<img src = "https://github.com/takashicompany/miniarcacon/assets/4215759/9e1ed5f0-506c-472b-bd95-357e8104897d" width = "600px" />
+
+[こちらのサイト](https://hardwaretester.com/gamepad)で入力の確認ができます。  
+<img src = "https://github.com/takashicompany/miniarcacon/assets/4215759/fe9534cc-9ea3-4471-a5b0-33a5fea8e025" width = "600px" />
+
 
 ピンセット等を使って、RP2040-Zeroのハンダ付けが正常に行われているかを確認します。  
 写真と同様に2つの穴を通電させて、入力がされているかを確認します。  
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5450.jpg?raw=true" width = "600px" />
+
+上述のサイトでのキー入力のマッピングは以下になります。  
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5625_2.jpg?raw=true" width = "600px" />
 
 ### 4. タクトスイッチの取り付け
 

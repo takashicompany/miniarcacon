@@ -97,7 +97,7 @@ RP2040-Zeroに備え付けられたBootボタンを確認してください。
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5450.jpg?raw=true" width = "600px" />
 
 上述のサイトでのキー入力のマッピングは以下になります。  
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5625_2.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5265_2.jpg?raw=true" width = "600px" />
 
 ### 4. タクトスイッチの取り付け
 

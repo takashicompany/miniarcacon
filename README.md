@@ -70,7 +70,7 @@ RP2040-Zeroのハンダ付け部分を全て基板にハンダ付けしたら完
 
 ### 3. ファームウェアの書き込み
 
-RP2040-ZeroとPC/ゲーム機をUSBで接続します。
+RP2040-ZeroとPC/ゲーム機をUSBで接続します。  
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5148.jpg?raw=true" width = "600px" />
 
 ピンセット等を使って、RP2040-Zeroのハンダ付けが正常に行われているかを確認します。  
@@ -162,7 +162,7 @@ RP2040-ZeroとPC/ゲーム機をUSBで接続します。
 ### 8. キーキャップの取り付け  
 
 キーキャップを取り付けて完成です。  
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5265.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5265_2.jpg?raw=true" width = "600px" />
 
 <!--
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />

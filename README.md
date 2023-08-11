@@ -196,54 +196,7 @@ RP2040-Zeroに備え付けられたBootボタンを確認してください。
 ### 8. キーキャップの取り付け  
 
 キーキャップを取り付けて完成です。  
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_5265_2.jpg?raw=true" width = "600px" />
-
-<!--
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/02.jpg?raw=true" width = "600px" />
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />

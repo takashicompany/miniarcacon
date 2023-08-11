@@ -1,5 +1,17 @@
 # miniArcacon
 
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/01.jpg?raw=true" width = "600px" />
+
+<img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/02.jpg?raw=true" width = "300px" /><img src = "https://github.com/takashicompany/miniarcacon/blob/master/images/03.jpg?raw=true" width = "300px" />
+
+「miniArcacon(ミニアケコン)」ポケットに入れて持ち運べるレバーレスのアケコンです。  
+薄く小さいため持ち運びが容易となっております。  
+
+コンパクトながらも実用に耐えうるボタン配置となっております。  
+
+ファームウェアはGP2040-CE等を導入することができ、多様なデバイスやプラットフォームでゲームを楽しむことができます。
+
+
 ## 組み立てに必要なもの
 
 ### 道具

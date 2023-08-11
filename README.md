@@ -45,7 +45,7 @@
 |:--|:--|:--|
 |[RP2040-Zero](https://talpkeyboard.net/items/640ea9f3072c3c538731c515)|1||
 |[Kailh Choc v1 スイッチ]([https://shop.yushakobo.jp/products/cherry-mx](https://shop.yushakobo.jp/collections/all-switches/kailh-choc-v1%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)https://shop.yushakobo.jp/collections/all-switches/kailh-choc-v1%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)|12||
-|0.8u(16mm)狭ピッチキーキャップ|12||
+|0.8u(16mm)狭ピッチキーキャップ|12|[こちら](https://zenn.dev/takashicompany/articles/5780841f828d66)にて適合するキーキャップの紹介を行っております。|
 |USB-C|1||
 
 ## 組み立て方
